@@ -8,9 +8,13 @@
 > Nous avons récemment changé le nom de notre organisation GitHub, passant de `speed-cloud` à `GroupeSpeedCloud`.
 > Ceci devrait avoir peu d'impact sur le clonage des dépôts.
 >
-> Dans le doute, exécutez l'une des commandes ci-dessous dans votre terminal afin de ne pas avoir de problèmes en cas de `pull` ou `push` :
-> `git remote set-url origin https://github.com/GroupeSpeedCloud/<nom du dépôt>.git` (HTTPS)
-> `git remote set-url origin git@github.com:GroupeSpeedCloud/<nom du dépôt>.git` (SSH)
+> 
+> Dans le doute, exécutez l'une des commandes ci-dessous dans votre terminal afin de ne pas avoir de problèmes :
+> 
+> ```bash
+> git remote set-url origin https://github.com/GroupeSpeedCloud/<nom du dépôt>.git # (HTTPS)
+> git remote set-url origin git@github.com:GroupeSpeedCloud/<nom du dépôt>.git # (SSH)
+> ```
 
 ## Parlons (brièvement) de nous
 
